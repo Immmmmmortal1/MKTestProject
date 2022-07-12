@@ -1,0 +1,6 @@
+framework module MKTestProject {
+  umbrella header "MKTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
