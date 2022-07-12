@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     [MKTestMethod mk_testMethod];
+    [MKTestMethod mk_testMethod2];
 }
 
 - (void)didReceiveMemoryWarning

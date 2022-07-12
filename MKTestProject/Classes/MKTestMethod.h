@@ -13,6 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 @interface MKTestMethod : NSObject
 ///:MKTestMethod
 + (void)mk_testMethod;
+///:MKTestMethod2
++ (void)mk_testMethod2;
 @end
 
 NS_ASSUME_NONNULL_END
