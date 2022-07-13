@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MKTestProject'
-  s.version          = '0.2.0'
-  s.summary          = 'A short description of MKTestProject这个是测试工程来0.2.0的.'
+  s.version          = '0.2.1'
+  s.summary          = '这个是测试工程来的0.2.0 MKTestProject这个是测试工程来0.2.0的.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here 这个是测试工程来的0.2.0活得好好的和.
+这个是测试工程来的0.2.0这个是测试工程来的0.2.0活得好这个是测试工程来的0.2.0 这个是测试工程来的0.2.0.
                        DESC
 
   s.homepage         = 'https://github.com/Immmmmmortal1/MKTestProject'

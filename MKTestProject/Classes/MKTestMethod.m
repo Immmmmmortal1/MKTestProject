@@ -17,5 +17,9 @@
 + (void)mk_testMethod2 {
     NSLog(@"当前方法时mk_testMethod2");
 }
+///:MKTestMethod2
++ (void)mk_testMethod3 {
+    NSLog(@"当前方法时mk_testMethod3");
+}
 
 @end
