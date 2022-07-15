@@ -1,8 +1,8 @@
 {
   "name": "MKTestProject",
-  "version": "0.1.0",
-  "summary": "A short description of MKTestProject这个是测试工程来的.",
-  "description": "TODO: Add long description of the pod here 这个是测试工程来的.",
+  "version": "1.0.0",
+  "summary": "这个是测试工程来的1.0.0 MKTestProject这个是测试工程来0.2.0的.",
+  "description": "这个是测试工程来的1.0.0这个是测试工程来的1.0.0活得好这个是测试工程来的1.0.0 这个是测试工程来的1.0.0.",
   "homepage": "https://github.com/Immmmmmortal1/MKTestProject",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Immmmmmortal1/MKTestProject.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "10.0"
