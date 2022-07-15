@@ -18,6 +18,9 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)mk_testMethod3;
 ///:MKTestMethod2
 + (void)mk_testMethod4;
+///:MKTestMethod2
++ (void)mk_testMethod5;
+
 @end
 
 NS_ASSUME_NONNULL_END

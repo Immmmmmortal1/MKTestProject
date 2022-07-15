@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MKTestProject'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '这个是测试工程来的1.0.0 MKTestProject这个是测试工程来0.2.0的.'
 
 # This description is used to generate tags and improve search results.

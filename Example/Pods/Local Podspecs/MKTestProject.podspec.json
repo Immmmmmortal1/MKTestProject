@@ -1,6 +1,6 @@
 {
   "name": "MKTestProject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "这个是测试工程来的1.0.0 MKTestProject这个是测试工程来0.2.0的.",
   "description": "这个是测试工程来的1.0.0这个是测试工程来的1.0.0活得好这个是测试工程来的1.0.0 这个是测试工程来的1.0.0.",
   "homepage": "https://github.com/Immmmmmortal1/MKTestProject",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Immmmmmortal1/MKTestProject.git",
-    "tag": "1.0.0"
+    "tag": "1.0.1"
   },
   "platforms": {
     "ios": "10.0"
